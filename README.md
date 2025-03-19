@@ -11,3 +11,8 @@ This repository shall be used as a collection of useful tools (with the focus on
 </p>
 
 Supabase is an open source alternative to google's firebase database hosting services. It is an online hosted PostgreSQL Database, that also provides a decent free pricing tier.
+
+### [Render](https://render.com/) - Application hosting
+
+Render is a cloud application hosting platform, that can be easily automated via build pipelines.
+It also provides a free tier for independent developers.
