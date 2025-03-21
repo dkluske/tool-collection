@@ -16,3 +16,10 @@ Supabase is an open source alternative to google's firebase database hosting ser
 
 Render is a cloud application hosting platform, that can be easily automated via build pipelines.
 It also provides a free tier for independent developers.
+
+### [Google Firebase App Distribution](https://firebase.google.com/docs/app-distribution?hl=de)
+
+Google Firebase App distribution is a service of Google's firebase to distribute mobile apps for easy installation on mobile devices like iOS and Android.
+The main purpose of this is to easily distribute new app versions for testers without having to deploy it in an app store. But as an individual developer, just trying to build a private app, you can use it to deploy your private app on your phone without an app store. 
+
+It also provides a free tier.
